@@ -1,6 +1,6 @@
 # BitBucket Webhook Body
 
-You can integrate the <a href="https://api.spontit.com">Spontit API</a> with BitBucket webhooks. For instructions on how to do so, see <a href="todo">here</a>.
+You can integrate the <a href="https://api.spontit.com">Spontit API</a> with BitBucket webhooks. For instructions on how to do so, see <a href="https://youtu.be/EJErqhSG0G8">here</a>.
 
 We use the function in `get_bitbucket_webhook_body.py` on our server to generate the body of the notification. 
 
